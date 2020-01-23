@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 42,
+    "second": 21
+  },
+  "estado": "APROBADA",
+  "estudiante": {
+    "nombre": "Yajaira",
+    "cedula": "0321789652",
+    "apellido": "Lucas"
+  },
+  "curso": {
+    "titulo": "Fisica Fundamental",
+    "costo": 0.0
+  },
+  "numero": "1ab717fe-f64b-408b-810f-8df07b8a8209",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 46,
+        "second": 9
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 46,
+        "second": 15
+      },
+      "valor": 10.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 46,
+        "second": 22
+      },
+      "valor": 14.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.666667
+}

@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 44,
+    "second": 10
+  },
+  "estado": "APROBADA",
+  "estudiante": {
+    "nombre": "Steven",
+    "cedula": "0369852147",
+    "apellido": "Lema"
+  },
+  "curso": {
+    "titulo": "Calculo Diferencial e Integral",
+    "costo": 0.0
+  },
+  "numero": "10aacf5e-37c0-4757-a801-02ff07acaadd",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 0
+      },
+      "valor": 14.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 6
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 12
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.333333
+}

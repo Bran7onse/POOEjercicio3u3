@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 2,
+    "second": 29
+  },
+  "estado": "REPROBADA",
+  "estudiante": {
+    "nombre": "Pedro",
+    "cedula": "1230459876",
+    "apellido": "Kun"
+  },
+  "curso": {
+    "titulo": "Tecnicas de Investigacion ",
+    "costo": 0.0
+  },
+  "numero": "138b1a98-4763-4a0d-95bb-7cd9e120c406",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 28
+      },
+      "valor": 11.33,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 37
+      },
+      "valor": 12.44,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 40
+      },
+      "valor": 12.44,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.07
+}

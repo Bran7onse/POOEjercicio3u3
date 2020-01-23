@@ -1,0 +1,111 @@
+[
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Fútbol"
+    ],
+    "nombre": "Brandon",
+    "cedula": "0504719204",
+    "apellido": "Fonseca"
+  },
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Andinismo",
+      "Clud de Artes plásticas"
+    ],
+    "nombre": "Alex",
+    "cedula": "0316548985",
+    "apellido": "Alvarez"
+  },
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Danza",
+      "Clud de Música"
+    ],
+    "nombre": "Yajaira",
+    "cedula": "0321789652",
+    "apellido": "Lucas"
+  },
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Danza",
+      "Clud de Artes plásticas",
+      "Club de Robótica"
+    ],
+    "nombre": "Adriana",
+    "cedula": "0789632145",
+    "apellido": "Panchi"
+  },
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Artes plásticas",
+      "Club de Robótica"
+    ],
+    "nombre": "Steven",
+    "cedula": "0369852147",
+    "apellido": "Lema"
+  },
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Danza",
+      "Clud de Música"
+    ],
+    "nombre": "Odalis \u003c3",
+    "cedula": "0159753468",
+    "apellido": "Arias"
+  },
+  {
+    "carrera": "Ingenieria Robotica",
+    "clubes": [
+      "Clud de Fútbol"
+    ],
+    "nombre": "Kevin",
+    "cedula": "02587419633",
+    "apellido": "Moya"
+  },
+  {
+    "carrera": "Ingenieria Automotriz",
+    "clubes": [
+      "Clud de Danza",
+      "Clud de Artes plásticas",
+      "Clud de Tenis de Mesa"
+    ],
+    "nombre": "Franklin",
+    "cedula": "0159236478",
+    "apellido": "Quispe"
+  },
+  {
+    "carrera": "Ingenieria Finanzas",
+    "clubes": [
+      "Clud de Danza",
+      "Clud de Fútbol"
+    ],
+    "nombre": "Franklin",
+    "cedula": "0963258741",
+    "apellido": "Quispe"
+  },
+  {
+    "carrera": "Ingenieria Robotica",
+    "clubes": [
+      "Club de Robótica"
+    ],
+    "nombre": "Pedro",
+    "cedula": "1230459876",
+    "apellido": "Kun"
+  },
+  {
+    "carrera": "Ingenieria Software",
+    "clubes": [
+      "Clud de Fútbol",
+      "Clud de Tenis de Mesa"
+    ],
+    "nombre": "Michael",
+    "cedula": "0987965425",
+    "apellido": "Armendariz"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 1,
+    "second": 44
+  },
+  "estado": "REPROBADA",
+  "estudiante": {
+    "nombre": "Franklin",
+    "cedula": "0159236478",
+    "apellido": "Quispe"
+  },
+  "curso": {
+    "titulo": "Fisica Fundamental",
+    "costo": 0.0
+  },
+  "numero": "26fe0a6c-8712-4781-a3ef-17c5d9b5ca2a",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 0
+      },
+      "valor": 12.44,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 2
+      },
+      "valor": 12.44,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 9
+      },
+      "valor": 16.14,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.673332
+}

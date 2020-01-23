@@ -1,0 +1,30 @@
+[
+{"titulo":"Programacion Orientadad a Objetos",
+   "Costo": 150.0,
+    "Descripcion":"Aprendizaje en Java al 100%"
+},
+       {"titulo":"Calculo Diferencial e Integral",
+       "Costo":120.0,
+        "Descripcion":"Aprender a Integrar y Derivar"
+},
+       {"titulo":"Fisica Fundamental",
+        "Costo":80.0,
+          "Descripcion":"Aprende las leyer termodinamicas y mucho mas"
+},
+        {"titulo":"Tecnicas de Investigacion ",
+           "Costo": 50.0,
+           "Descripcion": "Realizar ejemplos de papers para el desempeño universitario"
+},
+        {"titulo":"Algebra Lineal",
+       "Costo":120.0,
+          "Descripcion": "Aprenda a operar matrices y espacios vectoriales"
+},
+       {"titulo":"Fisica Clasica",
+           "Costo":90.0,
+          "Descripcion": "Aprende los diversos movimientos como MRU, MRUV,MCU"
+},
+         {"titulo":"Fundamentos de Programacion",
+        "Costo": 90.0,
+"Descripcion": "Aprendizaje de C++ al 100 %"
+}
+]

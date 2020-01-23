@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 42,
+    "second": 56
+  },
+  "estado": "REPROBADA",
+  "estudiante": {
+    "nombre": "Adriana",
+    "cedula": "0789632145",
+    "apellido": "Panchi"
+  },
+  "curso": {
+    "titulo": "Fisica Clasica",
+    "costo": 0.0
+  },
+  "numero": "977657c1-ead7-4b58-9298-3c91d59aaef2",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 58
+      },
+      "valor": 12.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 1
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 3
+      },
+      "valor": 12.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.0
+}

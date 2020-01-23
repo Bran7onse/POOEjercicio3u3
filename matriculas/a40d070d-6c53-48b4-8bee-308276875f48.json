@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 41,
+    "second": 21
+  },
+  "estado": "REPROBADA",
+  "estudiante": {
+    "nombre": "Alex",
+    "cedula": "0316548985",
+    "apellido": "Alvarez"
+  },
+  "curso": {
+    "titulo": "Programacion Orientadad a Objetos",
+    "costo": 0.0
+  },
+  "numero": "a40d070d-6c53-48b4-8bee-308276875f48",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 14
+      },
+      "valor": 12.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 23
+      },
+      "valor": 10.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 30
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.333333
+}

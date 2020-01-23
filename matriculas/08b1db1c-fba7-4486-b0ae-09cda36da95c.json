@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 1,
+    "second": 30
+  },
+  "estado": "APROBADA",
+  "estudiante": {
+    "nombre": "Franklin",
+    "cedula": "0159236478",
+    "apellido": "Quispe"
+  },
+  "curso": {
+    "titulo": "Algebra Lineal",
+    "costo": 0.0
+  },
+  "numero": "08b1db1c-fba7-4486-b0ae-09cda36da95c",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 31
+      },
+      "valor": 16.15,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 34
+      },
+      "valor": 16.15,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 40
+      },
+      "valor": 12.12,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.806666
+}

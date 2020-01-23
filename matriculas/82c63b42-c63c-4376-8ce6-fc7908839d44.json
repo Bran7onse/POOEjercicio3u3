@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 3
+  },
+  "estado": "APROBADA",
+  "estudiante": {
+    "nombre": "Odalis \u003c3",
+    "cedula": "0159753468",
+    "apellido": "Arias"
+  },
+  "curso": {
+    "titulo": "Tecnicas de Investigacion ",
+    "costo": 0.0
+  },
+  "numero": "82c63b42-c63c-4376-8ce6-fc7908839d44",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 30
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 37
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 46
+      },
+      "valor": 12.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.333333
+}
